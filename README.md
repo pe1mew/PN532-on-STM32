@@ -2,7 +2,7 @@ PN532 driver for STM32
 ======================
 (c) Remko welling, may 2016 
 
-This library implements the PN432 NFC-chip on STM32 platform using CMSIS.
+This library implements the PN532 NFC-chip on STM32 platform using StdPeripherel driver.
 It reads MIFARE cards.
 
 Notes
